@@ -1,6 +1,6 @@
 # CSS Illusion Transitions
 
-A simple but challenging way to create an illusion using a homemade solution. [Click here to check it ouy](https://kawassaki.github.io/css-illusion-transitions/index.html)
+A simple but challenging way to create an illusion using a homemade solution. [Click here to check it out](https://kawassaki.github.io/css-illusion-transitions/index.html)
 
 ## Copyright
 
